@@ -5,9 +5,9 @@
 </p>
 
 <p align="left">
-    I started programming in mid 2022 while studying Aerospace Engineering and accidentally discovered my enjoyment for programming. 
+    I started programming while studying Aerospace Engineering and accidentally discovered my enjoyment for it. 
     I've always been into tech and wanted to build things.
-    Since then, I've been wanting to improving my skills and knowledge.
+    Since then, I've been wanting to improve my skills and knowledge.
     In addition, I create content focused on programming, tech and productivity sharing my insights and experiences on my channel.
 </p>
 
